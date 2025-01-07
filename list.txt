@@ -1,1 +1,1 @@
-8:benim_senin_onun
+8|benim_senin_onun
